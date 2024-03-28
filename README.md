@@ -26,9 +26,8 @@ We have also provided the final GTI benchmark, which you can download from [link
 ## Utility judgments of LLMs
 Taking the testing of LlaMa 2-13B as an example, we demonstrated the use of four methods: pointwise, pairwise, list wise set, and list wise rank. If you want to test other models, you can directly replace them.
 
-'''
-python llama2-point.py
-'''
+```python llama2-point.py
+```
 
 
 
